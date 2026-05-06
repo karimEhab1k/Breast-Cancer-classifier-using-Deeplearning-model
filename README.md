@@ -1,3 +1,5 @@
+An end-to-end machine learning pipeline that utilizes deep neural networks to classify breast mass characteristics. This project transforms raw categorical and numerical clinical features into actionable diagnostic insights, achieving optimized accuracy for binary malignancy detection.
+
 Key Features:
 
 Architecture: Multi-layer Perceptron (MLP) optimized for tabular data.
